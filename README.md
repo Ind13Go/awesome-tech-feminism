@@ -1,6 +1,8 @@
 # awesome-tech-feminism
 
-A curated list of awesome articles, websites and resources about tech feminism (aka technofeminism) and feminist technology. 
+A curated list of awesome articles, websites and resources about tech feminism (aka technofeminism) and feminist technology.
+
+If you want to add something to this list, take a look at our [Contribution HowTo & Guidlines](./CONTRIBUTING.md) first.
 
 ## Contents
 
